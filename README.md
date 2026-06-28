@@ -22,10 +22,10 @@ Built with **MySQL** using **XAMPP (phpMyAdmin)** as part of the COMP 102 – In
 
 | Name | Student ID |
 |---|---|
-| I$ho Boi | 905006113 |
-| Imran Sesay | 905006114 |
-| Reginald Pearce | 905006115 |
-| Lebbie Bangura | 905006116 |
+| Ishmail.Junior. Kamara | 905006113 |
+| Ejatu. Jagitay | 905005871 |
+| Sidi. Mohamed. Saccoh | 905005747 |
+
 
 ---
 
